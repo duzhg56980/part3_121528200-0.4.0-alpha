@@ -1,0 +1,6 @@
+import org.apache.hadoop.hdds.scm.container.placement.metrics.SCMMetrics;
+public class FunctionUse728 {
+public void funcUse() {
+SCMMetrics scmmetrics = new SCMMetrics();
+}
+}
